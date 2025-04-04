@@ -2,7 +2,7 @@
 
 Please do the needful to export & import question using MS excel format
 
-1.keep xls folder mentioned path C:\xampp\htdocs\Your project folder\question\format.
+1.Create xls folder mentioned path C:\xampp\htdocs\Your project folder\question\format.
 
 2.excelreader used for reading Microsoft Excel files. C:\xampp\htdocs\Your project folder\lib\excelreader
 
